@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbilnicki
+- 👋 Hi, I’m Jakub
 - 👀 I’m interested in physiology of the dopamine system in mammals
 - 🌱 I’m currently learning openCV in python
 - 💞️ I’m looking to collaborate on projects related to analysis of data from behavioural as well as voltammetric experiments,
