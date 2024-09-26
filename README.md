@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jakub
 - 👀 I’m interested in physiology of the dopamine system in mammals
-- 🌱 I’m currently learning openCV in python
+- 🌱 I’m currently learning openCV in python, and I'm working on a module implementing it to analyze my voltammetric data and more...
 - 💞️ I’m looking to collaborate on projects related to analysis of data from behavioural as well as voltammetric experiments,
 - I am also open to learning new things and work on some other neuroscientific/biological projects
 - 📫 How to reach me: via GitHub
