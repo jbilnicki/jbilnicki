@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakub
-- 👀 I’m interested in neuroscience, biology and how can I integrate my programming skills in it
+- 👀 I’m interested in neuroscience, biology and how can I integrate my programming skills with it
 - 🌱 I’m currently learning openCV in python, and I'm working on a module: Bongo 'Bongo Offers Neuroscientific Graphs and Outputs' implementing openCV, numpy, scipy, matplotlib and more to analyze voltammetric data, track animal in open field and check if electrode I used during experiment was really in that structure I wanted it to be...
 - 💞️ I’m looking to collaborate on projects related to analysis of data from behavioural as well as voltammetric experiments,
 - I am also open to learning new things and work on some other projects
